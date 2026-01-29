@@ -1,3 +1,3 @@
 # Hello
 
-some text written oh Github.com
+some text written on Github.com
